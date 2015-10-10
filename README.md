@@ -1,3 +1,3 @@
 # TrivialFileTransferProtocol
 
-Implementation of Trivial File Transfer Protocol using socket programming in C
+Implementation of Trivial File Transfer Protocol using UNIX socket programming in C
